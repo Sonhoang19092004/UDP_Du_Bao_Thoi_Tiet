@@ -109,10 +109,11 @@ java -Dopenweather.api.key=your_api_key_here -jar target/weather-server-1.0.0.ja
 cd client
 mvn clean package
 java -jar target/weather-client-1.0.0.jar
-
+---
 ## Thông tin liên hệ  
 Họ tên: Hoàng Công Sơn.  
 Lớp: CNTT 16-03.  
 Email: hoangcongson19092004@gmail.com.
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+```bash
