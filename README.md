@@ -110,14 +110,15 @@ cd client
 mvn clean package
 java -jar target/weather-client-1.0.0.jar
 
-🚀 Sử dụng
+### 🚀 Sử dụng
+**🖥️ Server**: Chạy → lắng nghe request → trả dữ liệu thời tiết  
+**💻 Client**: Nhập tên thành phố → Xem thời tiết → Biểu đồ chi tiết → So sánh với hôm nay
 
-🖥️ Server: Chạy → lắng nghe request → trả dữ liệu thời tiết
-💻 Client: Nhập tên thành phố → Xem thời tiết → Biểu đồ chi tiết → So sánh với hôm nay
+---
 
 ## Thông tin liên hệ  
-Họ tên: Hoàng Công Sơn.  
-Lớp: CNTT 16-03.  
+Họ tên: Hoàng Công Sơn 
+Lớp: CNTT 16-03  
 Email: hoangcongson19092004@gmail.com
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
