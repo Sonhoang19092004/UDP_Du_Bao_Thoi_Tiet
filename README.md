@@ -8,9 +8,9 @@
 </h2>
 <div align="center">
     <p align="center">
-        <img src="images/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="images/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
-        <img src="images/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+        <img src="image/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="image/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
+        <img src="image/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -109,6 +109,8 @@ java -Dopenweather.api.key=your_api_key_here -jar target/weather-server-1.0.0.ja
 cd client
 mvn clean package
 java -jar target/weather-client-1.0.0.jar
+
+```
 
 ### 🚀 Sử dụng
 **🖥️ Server**: Chạy → lắng nghe request → trả dữ liệu thời tiết  
