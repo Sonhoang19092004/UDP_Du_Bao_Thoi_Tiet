@@ -60,28 +60,28 @@
 ## 🚀 3. Hình ảnh giao diện
 
 <p align="center">
-  <img src="images/current_weather_panel.png" alt="Current Weather Panel" width="700"/>
+  <img src="img/1.jpg" alt="Current Weather Panel" width="700"/>
 </p>
 <p align="center">
   <em>Hình 1: Thời tiết hiện tại</em>
 </p>
 
 <p align="center">
-  <img src="images/hourly_forecast_panel.png" alt="Hourly Forecast" width="700"/>
+  <img src="img/2.jpg" alt="Hourly Forecast" width="700"/>
 </p>
 <p align="center">
   <em>Hình 2: Dự báo theo giờ</em>
 </p>
 
 <p align="center">
-  <img src="images/daily_forecast_panel.png" alt="Daily Forecast" width="700"/>
+  <img src="img/3.jpg" alt="Daily Forecast" width="700"/>
 </p>
 <p align="center">
   <em>Hình 3: Dự báo 7 ngày</em>
 </p>
 
 <p align="center">
-  <img src="images/daily_detail_panel.png" alt="Daily Detail" width="700"/>
+  <img src="img/4.jpg" alt="Daily Detail" width="700"/>
 </p>
 <p align="center">
   <em>Hình 4: Chi tiết từng ngày với biểu đồ</em>
